@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Shanice! 
 
-<!--
-**keels1988/keels1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 CyberSecurity Projects:</h2>
+
+- <b>Python Projects</b>
+  - [Automated Port Scanner in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+- <b>Powershell Projects</b>
+
+- <b>Place holder</b>
+
+- <b>Certifications</b>
+
+<h2>👨‍💻 Let's Connect!</h2>
+
+ - TryHackMe: https://tryhackme.com/p/Sleek1337 (Cybersecurity labs & practical skills)
+ - Medium Blog: https://medium.com/@keels70 (Cybersecurity insights & tutorials)
+ - Linkedin: https://linkedin.com/in/shanice-l-209645306
