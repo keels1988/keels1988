@@ -5,7 +5,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Python Projects</b>
-  - [Automated Port Scanner in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Automated Port Scanner in Python](https://github.com/keels1988/Automated-Port-Scanner)
 
 - <b>Powershell Projects</b>
 
