@@ -8,6 +8,7 @@
   - [Automated Port Scanner in Python](https://github.com/keels1988/Automated-Port-Scanner)
 
 - <b>Study Guides</b>
+  - [Pentest+ Domain5 Study Companion](https://github.com/keels1988/Pentest--domain5-companion)
 
 - <b>Place holder</b>
 
@@ -15,6 +16,6 @@
 
 <h2>👨‍💻 Let's Connect!</h2>
 
- - TryHackMe: https://tryhackme.com/p/Sleek1337 (Cybersecurity labs & practical skills)
- - Medium Blog: https://medium.com/@keels70 (Cybersecurity insights & tutorials)
- - Linkedin: https://linkedin.com/in/shanice-l-209645306
+ - [TryHackMe](https://tryhackme.com/p/Sleek1337) (Cybersecurity labs & practical skills)
+ - [Medium Blog](https://medium.com/@keels70) (Cybersecurity insights & tutorials)
+ - [Linkedin](https://linkedin.com/in/shanice-l-209645306)
