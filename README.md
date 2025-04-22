@@ -7,7 +7,7 @@
 - <b>Python Projects</b>
   - [Automated Port Scanner in Python](https://github.com/keels1988/Automated-Port-Scanner)
 
-- <b>Powershell Projects</b>
+- <b>Study Guides</b>
 
 - <b>Place holder</b>
 
