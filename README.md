@@ -6,10 +6,10 @@
 
 - <b>Python Projects</b>
   - [Automated Port Scanner in Python](https://github.com/keels1988/Automated-Port-Scanner)
-  - [Python Keylogger (I suck at python)](https://github.com/keels1988/python-keylogger)
+  - [Python Keylogger (cringe)](https://github.com/keels1988/python-keylogger)
 
 - <b>Study Guides</b>
-  - [Pentest+ Domain5 Study Companion](https://github.com/keels1988/Pentest--domain5-companion)
+  - [Pentest+ Domain 5 Study Companion](https://github.com/keels1988/Pentest--domain5-companion)
   - [Scripting Syntax Comparison](https://github.com/keels1988/Scripting-syntax-comparison)
   
 
