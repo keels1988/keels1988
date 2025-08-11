@@ -22,8 +22,7 @@
   - [Security+](https://www.credly.com/badges/774fd1e9-b6ce-4060-ba22-007683c6d61c/public_url)
   - [Network+](https://www.credly.com/badges/3cd97f47-9829-4428-8a9b-12420cff33c9/public_url)
   - [CYSA+](https://www.credly.com/badges/89818e30-d1d8-44e9-b8f9-ff52e95271ec/public_url)
-  - [Pentest+]
-
+  - [Pentest+](https://www.credly.com/badges/4750ad1a-b313-40d6-b3c7-b870ca101cca/public_url)
 
 <h2>👨‍💻 Let's Connect!</h2>
 
