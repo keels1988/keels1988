@@ -12,6 +12,8 @@
   - [Pentest+ Domain 5 Study Companion](https://github.com/keels1988/Pentest--domain5-companion)
   - [Scripting Syntax Comparison](https://github.com/keels1988/Scripting-syntax-comparison)
   - [eMASS Overview](https://github.com/keels1988/eMASS-Overview-)
+  - [Skyline C5i RMF Package](https://github.com/keels1988/Proposals-)
+    
   
    
 
